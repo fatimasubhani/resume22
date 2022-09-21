@@ -1,7 +1,7 @@
 body {
-  background-color: #222221;
-  font-family: 'MaisonNeue', sans-serif;
-  color: #EFEBE4;
+  background-color: #FFFDFB;
+  font-family: 'GT-Eesti-Display-Regular-Trial', sans-serif;
+  color: #344E41;
   font-size: 14px;
   line-height: 20px;
 }
@@ -9,8 +9,8 @@ body {
 h1 {
   margin-top: 20px;
   margin-bottom: 10px;
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 84px;
   line-height: 1.1;
   font-weight: 400;
@@ -19,8 +19,8 @@ h1 {
 h2 {
   margin-top: 20px;
   margin-bottom: 10px;
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 64px;
   line-height: 1.3;
   font-weight: 400;
@@ -29,8 +29,8 @@ h2 {
 h3 {
   margin-top: 20px;
   margin-bottom: 10px;
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 48px;
   line-height: 1.3;
   font-weight: 400;
@@ -39,8 +39,8 @@ h3 {
 h4 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 36px;
   line-height: 1.3;
   font-weight: 400;
@@ -49,7 +49,7 @@ h4 {
 h5 {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 27px;
   line-height: 1.4;
   font-weight: 700;
@@ -58,7 +58,7 @@ h5 {
 h6 {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 21px;
   line-height: 1.5;
   font-weight: 700;
@@ -67,13 +67,13 @@ h6 {
 
 p {
   margin-bottom: 10px;
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 21px;
   line-height: 1.75;
 }
 
 a {
-  color: #9CB7B5;
+  color: #687B72;
   line-height: 1.5;
   font-weight: 700;
   text-decoration: none;
@@ -83,7 +83,7 @@ ul {
   margin-top: 0px;
   margin-bottom: 10px;
   padding-left: 40px;
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 21px;
   line-height: 1.75;
   list-style-type: disc;
@@ -93,7 +93,7 @@ ol {
   margin-top: 0px;
   margin-bottom: 10px;
   padding-left: 40px;
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 21px;
   line-height: 1.75;
 }
@@ -117,8 +117,8 @@ em {
 blockquote {
   margin-bottom: 10px;
   padding: 10px 20px;
-  border-left: 5px solid #EFEBE4;
-  color: #EFEBE4;
+  border-left: 5px solid #344E41;
+  color: #344E41;
   font-size: 18px;
   line-height: 1.75;
   font-style: italic;
@@ -238,12 +238,12 @@ blockquote {
   z-index: 1;
   width: 100%;
   height: 100%;
-  background-color: #222221;
+  background-color: #FFFDFB;
 }
 
 .hero-image {
   z-index: 2;
-  width: 50vw;
+  width: 40vw;
 }
 
 .symbol-container {
@@ -297,7 +297,7 @@ blockquote {
 .h2-title {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: 'Harmony', sans-serif;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
   font-size: 32px;
   line-height: 1.15;
   font-weight: 400;
@@ -350,12 +350,12 @@ blockquote {
 .line {
   width: 100%;
   height: 1px;
-  background-color: #EFEBE4;
+  background-color: #344E41;
 }
 
 .client-name {
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 7.5vw;
   line-height: 2;
   font-weight: 400;
@@ -410,8 +410,8 @@ blockquote {
 }
 
 .looping-text {
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 7.5vw;
   line-height: 2;
   font-weight: 400;
@@ -433,7 +433,7 @@ blockquote {
   top: 0px;
   width: 100%;
   height: 50vh;
-  background-color: #EFEBE4;
+  background-color: #344E41;
 }
 
 .loading-animation-down {
@@ -441,7 +441,7 @@ blockquote {
   bottom: 0px;
   width: 100%;
   height: 50vh;
-  background-color: #EFEBE4;
+  background-color: #344E41;
 }
 
 .loading-bar {
@@ -449,7 +449,7 @@ blockquote {
   z-index: 2;
   width: 100%;
   height: 1px;
-  background-color: #222221;
+  background-color: #FFFDFB;
 }
 
 .work-image {
@@ -519,7 +519,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-top: 1px solid #EFEBE4;
+  border-top: 1px solid #344E41;
 }
 
 .info-text {
@@ -547,7 +547,7 @@ blockquote {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
-  border-bottom: 1px solid #EFEBE4;
+  border-bottom: 1px solid #344E41;
   text-decoration: none;
 }
 
@@ -555,8 +555,8 @@ blockquote {
   position: relative;
   margin-top: 0px;
   margin-bottom: 17px;
-  font-family: 'Harmony', sans-serif;
-  color: #EFEBE4;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #344E41;
   font-size: 32px;
   line-height: 1.15;
   font-weight: 400;
@@ -566,14 +566,14 @@ blockquote {
   position: relative;
   width: 32px;
   margin-bottom: 22px;
-  color: #EFEBE4;
+  color: #344E41;
 }
 
 .black-overlay {
   position: absolute;
   width: 100%;
   height: 80px;
-  background-color: #000000;
+  background-color: #344E41;
 }
 
 .get-in-touch-title {
@@ -601,13 +601,13 @@ blockquote {
   padding: 6px 12px;
   -webkit-transition: color 250ms ease;
   transition: color 250ms ease;
-  font-family: 'MaisonNeue', sans-serif;
-  color: #EFEBE4;
+  font-family: 'GT-Eesti-Display-Regular-Trial', sans-serif;
+  color: #344E41;
   font-weight: 400;
 }
 
 .nav-link:hover {
-  color: #EFEBE4;
+  color: #344E41;
 }
 
 .utility-page-content {
@@ -622,7 +622,7 @@ blockquote {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-color: #EFEBE4;
+  background-color: #344E41;
   text-align: center;
 }
 
@@ -685,13 +685,13 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #EFEBE4;
+  background-color: #344E41;
 }
 
 .h1-utilities {
   margin-top: 0px;
   margin-bottom: 20px;
-  color: #222221;
+  color: #FFFDFB;
   font-size: 42px;
   line-height: 1.1;
   text-align: center;
@@ -700,7 +700,7 @@ blockquote {
 .utilities-text {
   max-width: 320px;
   margin-bottom: 30px;
-  color: #222221;
+  color: #FFFDFB;
   font-size: 21px;
   line-height: 1.6;
   text-align: center;
@@ -724,10 +724,10 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #222221;
+  background-color: #FFFDFB;
   -webkit-transition: background-color 400ms cubic-bezier(.23, 1, .32, 1);
   transition: background-color 400ms cubic-bezier(.23, 1, .32, 1);
-  color: #EFEBE4;
+  color: #344E41;
   font-size: 17px;
   line-height: 1.5;
   font-weight: 700;
@@ -736,7 +736,7 @@ blockquote {
 }
 
 .utilities-button:hover {
-  background-color: #222221;
+  background-color: #344E41;
 }
 
 .form-input {
@@ -746,15 +746,15 @@ blockquote {
   padding-left: 0px;
   border-style: solid;
   border-width: 1px;
-  border-color: transparent transparent #222221;
+  border-color: transparent transparent #344E41;
   background-color: transparent;
-  color: #EFEBE4;
+  color: #FFFDFB;
   font-size: 16px;
   line-height: 1.25;
 }
 
 .form-input:focus {
-  border-color: transparent transparent #EFEBE4;
+  border-color: transparent transparent #FFFDFB;
   border-bottom-width: 2px;
 }
 
@@ -789,7 +789,7 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 2px solid #EFEBE4;
+  border: 2px solid #344E41;
   background-color: transparent;
 }
 
@@ -839,7 +839,7 @@ blockquote {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  border-top: 2px solid #EFEBE4;
+  border-top: 2px solid #344E41;
 }
 
 .template-info-title {
@@ -906,11 +906,11 @@ blockquote {
 }
 
 .styleguide-color.text {
-  background-color: #EFEBE4;
+  background-color: #344E41;
 }
 
 .styleguide-color.bkg {
-  background-color: #e5e3dc;
+  background-color: #344E41;
   box-shadow: 2px 2px 6px 0 rgba(10, 10, 10, 0.1);
 }
 
@@ -919,7 +919,7 @@ blockquote {
 }
 
 .style-guide-text {
-  color: #222221;
+  color: #FFFDFB;
   font-size: 16px;
   line-height: 1.65;
   font-weight: 400;
@@ -976,15 +976,15 @@ blockquote {
 }
 
 .titles-style-guide {
-  font-family: 'Harmony', sans-serif;
-  color: #0a0a0a;
+  font-family: 'TestDomaineDisplay-Regular', sans-serif;
+  color: #FFFDFB;
   font-size: 60px;
   line-height: 1.5;
   font-weight: 400;
 }
 
 .text-style-guide {
-  color: #172633;
+  color: #344E41;
   font-size: 60px;
   line-height: 1.5;
 }
@@ -1009,7 +1009,7 @@ blockquote {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-color: #fbf9f9;
+  background-color: #FFFDFB;
 }
 
 .styleguide-title-container.last {
@@ -1486,22 +1486,22 @@ blockquote {
 }
 
 @font-face {
-  font-family: 'Harmony';
-  src: url('../fonts/Harmony.otf') format('opentype');
+  font-family: 'TestDomaineDisplay-Regular';
+  src: url('../fonts/TestDomaineDisplay-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: 'MaisonNeue';
-  src: url('../fonts/MaisonNeue-Book.otf') format('opentype');
+  font-family: 'GT-Eesti-Display-Regular-Trial';
+  src: url('../fonts/GT-Eesti-Display-Regular-Trial.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: 'MaisonNeue';
-  src: url('../fonts/MaisonNeue-Demi.otf') format('opentype');
+  font-family: 'GT-Eesti-Display-Regular-Italic-Trial';
+  src: url('../fonts/GT-Eesti-Display-Regular-Italic-Trial.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
